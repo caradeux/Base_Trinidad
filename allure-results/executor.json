@@ -1,0 +1,5 @@
+{
+  "buildName": "automation.selenium.maven",
+  "name": "Maven",
+  "type": "maven"
+}
